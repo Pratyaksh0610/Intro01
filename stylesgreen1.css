@@ -1,0 +1,25 @@
+body {
+  background-color: #e4f9f5;
+}
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #30e3ca;
+  border-width: 10px;
+}
+p {
+  color: #40514e;
+}
+h1 {
+  color: #11999e;
+}
+h3 {
+  color: #11999e;
+}
+h2 {
+  color: #11999e;
+}
+img:hover {
+  color: #40514e;
+  background-color: #40514e;
+}
